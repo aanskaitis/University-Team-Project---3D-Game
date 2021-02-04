@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{af544a13-6cec-4389-8704-e73e957dd759}">
+		<property name="assetPath">
+			<value>backgroundNoise.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>102.78252083333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8a105d4-01b0-48ed-9ca6-754c9cc95a91}</destination>
+		</relationship>
+	</object>
+</objects>
